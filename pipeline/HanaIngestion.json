@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "HanaExtract",
+				"name": "test-helloworld",
 				"type": "WebActivity",
 				"dependsOn": [],
 				"policy": {
@@ -16,7 +16,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"method": "GET",
-					"url": "https://fsaicontappdevstr.file.core.windows.net/fsaocontappfileshare/function-app.py"
+					"url": "https://dummyjson.com/products"
 				}
 			}
 		],
